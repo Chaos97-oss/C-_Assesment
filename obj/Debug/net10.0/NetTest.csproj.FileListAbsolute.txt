@@ -1,0 +1,14 @@
+/Users/mac/Documents/NetTest/bin/Debug/net10.0/NetTest
+/Users/mac/Documents/NetTest/bin/Debug/net10.0/NetTest.deps.json
+/Users/mac/Documents/NetTest/bin/Debug/net10.0/NetTest.runtimeconfig.json
+/Users/mac/Documents/NetTest/bin/Debug/net10.0/NetTest.dll
+/Users/mac/Documents/NetTest/bin/Debug/net10.0/NetTest.pdb
+/Users/mac/Documents/NetTest/obj/Debug/net10.0/NetTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/NetTest/obj/Debug/net10.0/NetTest.AssemblyInfoInputs.cache
+/Users/mac/Documents/NetTest/obj/Debug/net10.0/NetTest.AssemblyInfo.cs
+/Users/mac/Documents/NetTest/obj/Debug/net10.0/NetTest.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/NetTest/obj/Debug/net10.0/NetTest.dll
+/Users/mac/Documents/NetTest/obj/Debug/net10.0/refint/NetTest.dll
+/Users/mac/Documents/NetTest/obj/Debug/net10.0/NetTest.pdb
+/Users/mac/Documents/NetTest/obj/Debug/net10.0/NetTest.genruntimeconfig.cache
+/Users/mac/Documents/NetTest/obj/Debug/net10.0/ref/NetTest.dll
