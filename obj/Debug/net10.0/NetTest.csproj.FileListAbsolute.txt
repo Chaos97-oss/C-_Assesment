@@ -12,3 +12,4 @@
 /Users/mac/Documents/NetTest/obj/Debug/net10.0/NetTest.pdb
 /Users/mac/Documents/NetTest/obj/Debug/net10.0/NetTest.genruntimeconfig.cache
 /Users/mac/Documents/NetTest/obj/Debug/net10.0/ref/NetTest.dll
+/Users/mac/Documents/NetTest/obj/Debug/net10.0/NetTest.sourcelink.json
